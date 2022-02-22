@@ -32,7 +32,7 @@
 <br/>
 <br/>
 
-- **Фронтенд**: JS, TypeScript, React, Hooks API, Redux (Saga, Thunk, Toolkit), HTML5, CSS3,Material UI
+- **Фронтенд**: JS, TypeScript, React, Hooks API, Redux (Saga, Thunk, Toolkit), HTML5, CSS3, Material UI
 - **Бекенд**: Node.js, Express, Sessions/Tokens, CORS, WebSockets, hbs
 - **Базы данных**: PostgreSQL, Sequelize ORM
 - **A также**: Jest, REST
