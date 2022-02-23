@@ -42,7 +42,7 @@
 ### GitHub cтатистика:
 [![Halatik92's GitHub stats](https://github-readme-stats.vercel.app/api?username=halatik92&hide=issues&count_private=true&show_icons=true&theme=nightowl)](https://github.com/halatik92)
  
-### CadeWars cтатистика:
+### Codewars cтатистика:
  
 [![codewars](https://www.codewars.com/users/halatik92/badges/large)](https://www.codewars.com/users/halatik92)
 
