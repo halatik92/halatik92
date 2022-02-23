@@ -46,7 +46,6 @@
  
 [![codewars](https://www.codewars.com/users/halatik92/badges/large)](https://www.codewars.com/users/halatik92)
 
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=KnlnKS&theme=dark)](https://github.com/KnlnKS/leetcode-stats)]
 
 [whatsapp]: https://wa.me/79615073583
 [telegram]: https://t.me/Halattik 
