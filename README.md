@@ -23,6 +23,7 @@
 [<img align="left" alt="Redux"  width="32px" src="https://img.icons8.com/color/48/000000/redux.png"/>][git]
 [<img align="left" alt="Node.js" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][git]
 [<img align="left" alt="PostgreSQL" width="32px" src="https://img.icons8.com/color/50/000000/postgreesql.png"/>][git]
+[<img align="left" alt="MySQL" width="32px" src="https://img.icons8.com/color/50/000000/mysql.png"/>][git]
 [<img align="left" alt="Git" width="32px" src="https://img.icons8.com/color/48/000000/git.png"/>][git]
 [<img align="left" alt="Visual Studio Code" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][git]
 [<img align="left" alt="CSS3" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][git]
@@ -32,9 +33,9 @@
 <br/>
 <br/>
 
-- **Фронтенд**: JS, TypeScript, React, Hooks API, Redux (Saga, Thunk, Toolkit), HTML5, CSS3, Material UI
-- **Бекенд**: Node.js, Express, Sessions/Tokens, CORS, WebSockets, hbs
-- **Базы данных**: PostgreSQL, Sequelize ORM
+- **Фронтенд**: JS, TypeScript, Angular, React, Hooks API, Redux (Saga, Thunk, Toolkit), HTML5, CSS3, Material UI
+- **Бекенд**: Node.js, Express, Sessions/Tokens, CORS, WebSockets, handlebars
+- **Базы данных**: PostgreSQL, MySQL, Sequelize ORM, Type-ORM
 - **A также**: Jest, REST
 
 
