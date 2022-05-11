@@ -1,7 +1,7 @@
 ### Hello there! Я - Максим, fullstack разработчик!
 
 - 👀 Интересуюсь web-разработкой
-- :space_invader:  В настоящее время изучаю TypeScript, Prisma ORM, Svelte
+- :space_invader:  В настоящее время изучаю Ionic, Cordova, MySQL, Type-ORM
 - 📫 Почта: tretyakovfrontend@mail.ru
 
 ---
@@ -33,7 +33,7 @@
 <br/>
 <br/>
 
-- **Фронтенд**: JS, TypeScript, Angular, React, Hooks API, Redux (Saga, Thunk, Toolkit), HTML5, CSS3, Material UI
+- **Фронтенд**: JS, TypeScript, Angular, React, Hooks API, Redux (Saga, Thunk, Toolkit), HTML5, CSS3, Material UI, Ionic
 - **Бекенд**: Node.js, Express, Sessions/Tokens, CORS, WebSockets, handlebars
 - **Базы данных**: PostgreSQL, MySQL, Sequelize ORM, Type-ORM
 - **A также**: Jest, REST
