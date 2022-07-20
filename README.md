@@ -1,7 +1,7 @@
 ### Hello there! Я - Максим, fullstack разработчик!
 
 - 👀 Интересуюсь web-разработкой
-- :space_invader:  В настоящее время изучаю Ionic, Cordova, MySQL, Type-ORM
+- :space_invader:  В настоящее время развиваюсь по стеку: Ionic, Cordova, Angular, MySQL, Type-ORM
 - 📫 Почта: tretyakovfrontend@mail.ru
 
 ---
